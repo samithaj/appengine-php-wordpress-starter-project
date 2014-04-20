@@ -1,4 +1,4 @@
-application: your-project-id
+application: sam92blog
 version: wpfromstarterproject
 runtime: php
 api_version: 1
