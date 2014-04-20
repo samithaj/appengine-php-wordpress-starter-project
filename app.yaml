@@ -1,6 +1,7 @@
 application: sam92blog
 version: wpfromstarterproject
 runtime: php
+threadsafe: true
 api_version: 1
 
 handlers:
